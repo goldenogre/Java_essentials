@@ -1,0 +1,7 @@
+Interface
+
+* Cannot be instantiated.
+* Can be implemented by classes adn extended by other interfaces.
+* Any class that implements an interface must implement all of its methods, or it must declare itself abstract.
+* By default, methods in an interface are public adn abstract.
+* In addition to abstract methods, interfaces may also contact default adn static methods as well.
