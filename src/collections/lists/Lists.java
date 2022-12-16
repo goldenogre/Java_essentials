@@ -5,7 +5,8 @@ import java.util.List;
 public class Lists {
     // Lists are ordered like an array
     public static void main(String[] args) {
-
+        // optional but helpful for loops
+        // use <> and name the types <String, Integer>
 
 
 
