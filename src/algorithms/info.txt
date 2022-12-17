@@ -1,0 +1,6 @@
+Big-O Notation
+
+O(1)        constant
+O(n)        searching an array
+O(log(n))
+O(n*2)
