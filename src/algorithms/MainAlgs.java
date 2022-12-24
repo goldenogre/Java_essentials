@@ -1,13 +1,13 @@
 package algorithms;
 
-import algorithms.sort.Bubble;
-import algorithms.sort.Selection;
+import algorithms.recursion.Recursion;
+import algorithms.sort.*;
 
 public class MainAlgs {
     public static void main(String[] args) {
         int[] unsortedArray = {65,1,24,5,-3,22,6};
         print(unsortedArray);
-        Selection.selectionSort(unsortedArray);
+        Merge.mergeSort(unsortedArray,0,unsortedArray.length);
         print(unsortedArray);
 
     }
